@@ -20,7 +20,7 @@
   "author": "Hussein Duvigneau <hussein@notmybase.com>",
   "license": "ISC",
   "dependencies": {
-    "next": "^9.5.3",
+    "next": "^11.1.0",
     "next-i18next": "^6.0.3",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
